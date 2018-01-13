@@ -13,7 +13,7 @@ User creadentials are fully encrypted using salt encryption and are stored secur
 <img src= "ProjectImages\Register.png" />
 
 <h3> Invalid Login View</h3>
-<img src= "ProjectImages\invalidLogin.png" />
+<img src= "ProjectImages\InvalidLogin.png" />
 
 <h2> Administrator's Features </h2>
 Administrator can see and manage all the projects, view sales report, view the hot projects, create new administrators and delete a project.
@@ -29,7 +29,7 @@ Administrator can see and manage all the projects, view sales report, view the h
 
 <h2>Customer's Features </h2>
 <p>Customer's Projects List View (for buying)</p>
-<img src= "ProjectImages\customerListView.png" />
+<img src= "ProjectImages\customerListVIew.png" />
 
 <h3>Add to Cart</h3>
 <img src= "ProjectImages\addedToCart.png" />
