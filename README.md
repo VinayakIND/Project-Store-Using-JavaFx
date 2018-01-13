@@ -6,7 +6,7 @@ This is a project store desktop application where you can sell, manage and buy p
 <p>Whether it is the administrator or the customer, all have to create their account and use it to login to the application. Only an administrator can create new admins. </p>
 <p> The images for register and login are as follows: <p>
 <h3> Register </h3>
-<img src= "Project Images\Register.png" />
+<img src= "ProjectImages\Register.png" />
 
 <h2> Administrator's Features </h2>
  Administrator View for   
